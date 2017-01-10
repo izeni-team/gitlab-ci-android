@@ -1,12 +1,12 @@
 #
 # GitLab CI: Android v0.2
 #
-# https://hub.docker.com/r/jangrewe/gitlab-ci-android/
-# https://git.faked.org/jan/gitlab-ci-android
+# https://hub.docker.com/r/izeni/gitlab-ci-android/
+# https://github.com/izeni-team/gitlab-ci-android
 #
 
 FROM ubuntu:16.04
-MAINTAINER Jan Grewe <jan@faked.org>
+MAINTAINER Kacey Cole <kcole@izeni.com>
 
 ENV VERSION_SDK_TOOLS "25.2.4"
 ENV VERSION_BUILD_TOOLS "25.0.2"
